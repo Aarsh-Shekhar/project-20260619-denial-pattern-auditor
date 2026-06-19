@@ -1,0 +1,7 @@
+{
+  "name": "operator handoff",
+  "domain": "revenue cycle",
+  "score_floor": 0.71,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}
