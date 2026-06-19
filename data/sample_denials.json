@@ -1,0 +1,146 @@
+[
+  {
+    "id": "denial-001",
+    "exposure": 89938,
+    "signal": 0.719,
+    "urgency": 7
+  },
+  {
+    "id": "denial-002",
+    "exposure": 20171,
+    "signal": 0.918,
+    "urgency": 9
+  },
+  {
+    "id": "denial-003",
+    "exposure": 2034,
+    "signal": 0.316,
+    "urgency": 3
+  },
+  {
+    "id": "denial-004",
+    "exposure": 1831,
+    "signal": 0.505,
+    "urgency": 3
+  },
+  {
+    "id": "denial-005",
+    "exposure": 54456,
+    "signal": 0.626,
+    "urgency": 9
+  },
+  {
+    "id": "denial-006",
+    "exposure": 12244,
+    "signal": 0.663,
+    "urgency": 6
+  },
+  {
+    "id": "denial-007",
+    "exposure": 52302,
+    "signal": 0.5,
+    "urgency": 9
+  },
+  {
+    "id": "denial-008",
+    "exposure": 80238,
+    "signal": 0.922,
+    "urgency": 7
+  },
+  {
+    "id": "denial-009",
+    "exposure": 54124,
+    "signal": 0.596,
+    "urgency": 8
+  },
+  {
+    "id": "denial-010",
+    "exposure": 35844,
+    "signal": 0.916,
+    "urgency": 5
+  },
+  {
+    "id": "denial-011",
+    "exposure": 4038,
+    "signal": 0.771,
+    "urgency": 5
+  },
+  {
+    "id": "denial-012",
+    "exposure": 63579,
+    "signal": 0.234,
+    "urgency": 3
+  },
+  {
+    "id": "denial-013",
+    "exposure": 36839,
+    "signal": 0.33,
+    "urgency": 8
+  },
+  {
+    "id": "denial-014",
+    "exposure": 65343,
+    "signal": 0.199,
+    "urgency": 1
+  },
+  {
+    "id": "denial-015",
+    "exposure": 23404,
+    "signal": 0.892,
+    "urgency": 1
+  },
+  {
+    "id": "denial-016",
+    "exposure": 71392,
+    "signal": 0.555,
+    "urgency": 4
+  },
+  {
+    "id": "denial-017",
+    "exposure": 6697,
+    "signal": 0.379,
+    "urgency": 7
+  },
+  {
+    "id": "denial-018",
+    "exposure": 86527,
+    "signal": 0.882,
+    "urgency": 2
+  },
+  {
+    "id": "denial-019",
+    "exposure": 23662,
+    "signal": 0.895,
+    "urgency": 1
+  },
+  {
+    "id": "denial-020",
+    "exposure": 39183,
+    "signal": 0.558,
+    "urgency": 5
+  },
+  {
+    "id": "denial-021",
+    "exposure": 3012,
+    "signal": 0.797,
+    "urgency": 9
+  },
+  {
+    "id": "denial-022",
+    "exposure": 87517,
+    "signal": 0.369,
+    "urgency": 2
+  },
+  {
+    "id": "denial-023",
+    "exposure": 18550,
+    "signal": 0.106,
+    "urgency": 6
+  },
+  {
+    "id": "denial-024",
+    "exposure": 10646,
+    "signal": 0.698,
+    "urgency": 6
+  }
+]
